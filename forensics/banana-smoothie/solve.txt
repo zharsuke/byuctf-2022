@@ -1,0 +1,3 @@
+when cat flag.png there is sentence that interesting at above. then search it in google.
+it's .obj file issues, so change extension file from .png to .obj.
+then import it in blender and click wireframe. the flag will appear.
